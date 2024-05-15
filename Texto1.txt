@@ -1,0 +1,4 @@
+Mi primer archivo de Texto 
+Python en TP2 
+Escrito desde Jupyter 
+Seion2
